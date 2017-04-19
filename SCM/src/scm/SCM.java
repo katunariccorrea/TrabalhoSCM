@@ -1,5 +1,4 @@
 package scm;
-
 import java.util.Scanner;
 
 class SCM {

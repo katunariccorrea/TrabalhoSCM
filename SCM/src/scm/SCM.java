@@ -2,7 +2,7 @@ package scm;
 
 import java.util.Scanner;
 
-class Pessoa {
+class SCM {
     public String nome;
     public int idade;
     
@@ -14,8 +14,8 @@ class Pessoa {
     
     public static void main(String args[]) {
         Scanner in = new Scanner(System.in);
-        Pessoa novaPessoa;
-        novaPessoa = new Pessoa();
+        SCM novaPessoa;
+        novaPessoa = new SCM();
         
         novaPessoa.nome = "Mike";
         novaPessoa.idade = 84;

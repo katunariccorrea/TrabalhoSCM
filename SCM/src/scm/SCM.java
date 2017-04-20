@@ -5,7 +5,8 @@ class SCM {
     public String nome;
     public int idade;
     
- 
+    
+ //torna um ano mais velho
     public static int fazAniversario(int aniversario){
     aniversario++;    
     return aniversario;

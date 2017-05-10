@@ -14,5 +14,6 @@ public class FazAniversário {
     public static int fazAniversario(int aniversario){
     aniversario++;    
     return aniversario;
+    
     }
 }

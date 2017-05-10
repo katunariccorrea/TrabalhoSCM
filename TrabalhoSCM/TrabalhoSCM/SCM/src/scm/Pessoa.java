@@ -30,7 +30,7 @@ public class Pessoa {
             case 1:
                 
                 
-                System.out.println(pessoa.getNome() + " tem " + FazAniversário.fazAniversario(pessoa.getIdade()) + " anos");
+                System.out.println(pessoa.getNome() + " tem " + FazAniver.fazAniver(pessoa.getIdade()) + " anos");
                 break;
             default:
                 System.out.println("Resposta incorreta!");

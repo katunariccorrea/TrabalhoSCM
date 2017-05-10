@@ -9,17 +9,11 @@ package scm;
  *
  * @author katunaric
  */
-public class FazAniversário {
-
-    public static int fazAniversario(int aniversario){
+public class FazAniver {
+       public static int fazAniver(int aniversario){
     aniversario++;    
     return aniversario;
     
-    
-    // Alteração em 10/05/2017
     }
-    
-    public String getDataAniver(){
-        return "janeiro";
-    } 
+    // Alteração em 10/05/2017.
 }

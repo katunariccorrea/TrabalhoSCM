@@ -15,4 +15,8 @@ public class FazAniversário {
     aniversario++;    
     return aniversario;
     }
+    
+    public String getDataAniver(){
+        return "janeiro";
+    } 
 }
